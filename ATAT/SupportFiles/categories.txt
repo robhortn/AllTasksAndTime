@@ -1,0 +1,13 @@
+App | Shopping
+App | Online Services
+App | CS Loader
+App | BRC Browser
+App | Gauge Tables
+App | GATX
+App | State Tax
+App | IRIX
+Gen | Email
+Gen | Voicemail
+Gen | Meeting
+IT | DTS upgrades
+IT | ERP system

@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="FileCategory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\temp\ATAT\Supportfiles\Categories.txt</Value>
+    </Setting>
+    <Setting Name="FileLogPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\temp\ATAT\Logging</Value>
+    </Setting>
+    <Setting Name="FormCategoryStartPosX" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="FormCategoryStartPosY" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
